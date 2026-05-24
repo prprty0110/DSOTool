@@ -279,6 +279,8 @@ When you select a resolution, the Sell Bot grid values (Cell Width, Height, Gap 
 
 ## Hotkey Overlay
 
+![Hotkey Overlay](images/hotkey_overlay.png)
+
 A small always-on-top window that lists all active hotkey bindings at a glance.
 
 - Shows bindings for: Sell Bot, Melt Bot, Fast Mount, Jump Mount, Fast Teleport locations, and Auto-Clicker.
