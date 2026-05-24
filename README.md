@@ -50,6 +50,8 @@ These keys can be rebound in the **Settings** tab.
 
 The Sell Bot scans your inventory bags and automatically sells items matching selected rarities.
 
+![Sell Bot](images/inventory_sell.png)
+
 ### Setup
 
 1. Open your inventory in-game.
@@ -113,6 +115,8 @@ A toast notification appears when selling is complete showing how many items wer
 
 ## Inventory — Melt Bot
 
+![Melt Bot](images/inventory_melt.png)
+
 The Melt Bot automates melting items in batches of 9.
 
 ### Modes
@@ -141,6 +145,8 @@ A toast notification appears when melting is complete showing how many items wer
 
 ## Auto-Clicker
 
+![Auto-Clicker](images/autoclicker.png)
+
 Automates left and/or right mouse clicking at a configurable speed.
 
 ### Left Click / Right Click
@@ -163,6 +169,8 @@ Assign a **Switch** hotkey to toggle between Left Click and Right Click mode on 
 ---
 
 ## Fast Mount
+
+![Fast Mount](images/fastmount.png)
 
 Automatically equips a speed cloak, mounts, then re-equips the original cloak. The mouse position is saved before and restored after the macro.
 
@@ -194,6 +202,8 @@ Jump Mount is a special mode for classes that can mount while jumping, avoiding 
 ---
 
 ## Fast Teleport
+
+![Fast Teleport](images/fast_teleport.png)
 
 Automatically navigates to a saved map location. Supports both standard map teleports and boss teleport items.
 
@@ -238,6 +248,8 @@ Press the assigned hotkey for a location. The macro handles inventory open/close
 ---
 
 ## Settings
+
+![Settings](images/settings.png)
 
 | Setting | Description |
 |---------|-------------|
