@@ -4,6 +4,7 @@
   <a href="https://github.com/prprty0110/DSOTool/releases/latest/download/DSOTools.zip">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Release">
   </a>
+  <img src="https://img.shields.io/github/downloads/prprty0110/DSOTool/total?style=for-the-badge&label=Total%20Downloads&color=blue">
 </div>
 
 DSOTools is a helper tool for DSO (Drakensang Online) that automates common inventory and navigation tasks. The tool runs as an always-on-top overlay and is controlled entirely via hotkeys.
