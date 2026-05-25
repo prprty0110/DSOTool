@@ -110,7 +110,20 @@ Each rarity (Uncommon, Magic, Rare, Epic, Unique, Set) can be toggled on/off.
 
 ### Other Items
 
-Custom items can be added alongside rarities. Each item has its own name, color points, and enable/disable toggle.
+> ⚠️ **Use at your own risk.** The Other Items feature is intended for selling non-rarity items such as essences, potions, and consumables. Use it carefully — incorrectly configured color points may cause the bot to sell items you did not intend to sell. Always verify your points using the **Show Scan Grid** overlay before running.
+
+Other Items allows you to define custom items to sell automatically alongside rarities. Each item has its own name, color points, tolerance value, and enable/disable toggle.
+
+**Adding an Other Item:**
+
+1. Click **Add Item** and enter a name (e.g. "Essence", "Potion").
+2. Click **Add Point** and click on the item in your inventory.
+3. Add multiple points from different slots for better accuracy.
+4. Adjust the **tolerance** value — higher tolerance is more lenient, lower is more strict.
+5. Use the **Show Scan Grid** overlay (green crosses) to verify point positions are correct.
+6. Enable the item with the checkbox.
+
+> The bot uses majority voting — more than 50% of your points must match for the item to be detected. Adding 3–5 points from different slots is recommended.
 
 ### Running the Sell Bot
 
