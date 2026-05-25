@@ -1,12 +1,5 @@
 # DSOTools Documentation
 
-<div align="center">
-  <a href="https://github.com/prprty0110/DSOTool/releases/latest/download/DSOTools.zip">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Release">
-  </a>
-  <img src="https://img.shields.io/github/downloads/prprty0110/DSOTool/total?style=for-the-badge&label=Total%20Downloads&color=blue">
-</div>
-
 DSOTools is a helper tool for DSO (Drakensang Online) that automates common inventory and navigation tasks. The tool runs as an always-on-top overlay and is controlled entirely via hotkeys.
 
 ---
@@ -194,6 +187,8 @@ Automatically equips a speed cloak, mounts, then re-equips the original cloak. T
 ### Jump Mount
 
 Jump Mount is a special mode for classes that can mount while jumping, avoiding damage during the mount animation.
+
+> **Important:** Before using Jump Mount, you must bind your skill bars to hotkeys directly in the game. Go to the game settings and assign a key to each skill bar you want to use (e.g. `F1` for main bar, `F2` for the bar containing the jump skill). These are the keys you set as **Main Bar** and **Target Bar** in DSOTools.
 
 **Setup:**
 
